@@ -34,7 +34,7 @@ import okhttp3.Response;
 
 /**
  * @author : maning
- * @desc :  文件上传下载相关的工具
+ * 文件上传下载相关的工具
  */
 public class DownloadFileUtils {
     private static final String TAG = DownloadFileUtils.class.getSimpleName();

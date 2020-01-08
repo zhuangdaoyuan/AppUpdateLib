@@ -15,7 +15,6 @@ import okio.Source;
 
 /**
  * @author : maning
- * @desc :  下载监听所用
  */
 public class ProgressResponseBody extends ResponseBody {
 

@@ -1,5 +1,5 @@
-def siteUrl = 'https://github.com/zhuangdaoyuan/ExpandTextView' // 项目的主页
-def gitUrl = 'https://github.com/zhuangdaoyuan/ExpandTextView.git' // Git仓库的url
+def siteUrl = 'https://github.com/zhuangdaoyuan/AppUpdateLib' // 项目的主页
+def gitUrl = 'https://github.com/zhuangdaoyuan/AppUpdateLib.git' // Git仓库的url
 group="com.zdy.update"
 install {
     repositories.mavenInstaller {
@@ -58,7 +58,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = "BaseModule"
-        name = "UpdateApk"    //发布到JCenter上的项目名字
+        name = "UpdateLib"    //发布到JCenter上的项目名字
         websiteUrl = siteUrl
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]

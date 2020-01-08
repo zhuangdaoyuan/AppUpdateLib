@@ -2,7 +2,7 @@ package com.maning.updatelibrary.http;
 
 /**
  * @author : maning
- * @desc :  文件下载监听
+ *   文件下载监听
  */
 public abstract class AbsFileProgressCallback {
 

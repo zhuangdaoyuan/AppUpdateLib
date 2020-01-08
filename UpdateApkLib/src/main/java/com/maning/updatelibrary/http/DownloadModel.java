@@ -5,7 +5,6 @@ import java.util.Map;
 
 /**
  * @author : maning
- * @desc : 请求参数相关
  */
 public class DownloadModel {
 
