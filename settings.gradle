@@ -1,5 +1,5 @@
 include ':app', ':UpdateApkLib'
 include ':Zxinglib'
-//include ':CameraLib'
-//include ':FloatviewLib'
+include ':CameraLib'
+include ':FloatviewLib'
 
