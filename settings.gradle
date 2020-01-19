@@ -1,2 +1,2 @@
-include ':app', ':UpdateApkLib', ':zxinglib'
+include ':app', ':UpdateApkLib', ':Zxinglib', ':CameraLib',':FloatviewLib'
 
